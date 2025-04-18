@@ -1,5 +1,5 @@
 # **Code Odyssey 🚀**  
-Bem-vindo à **Code Odyssey**, uma jornada épica pelo universo da programação! Este repositório é um espaço dedicado a desafios e exercícios em **Java**, ideal para aprimorar habilidades, explorar soluções criativas e aprender constantemente.
+Bem-vindo à **Code Odyssey**, uma jornada épica pelo universo da programação! Este repositório é um espaço dedicado a desafios e exercícios em **Java**, ideal para aprimorar habilidades.
 
 ## 📜 **Sobre o Repositório**  
 Este repositório contém:  
@@ -13,6 +13,6 @@ O objetivo é construir um acervo de aprendizado e desenvolvimento colaborativo,
 #**🎯 Objetivos**
 Aprender e fortalecer habilidades de programação com desafios práticos.
 
-- **Compartilhar soluções inovadoras e colaborar com outros desenvolvedores.
+- Compartilhar soluções inovadoras e colaborar com outros desenvolvedores.
 
-- **Criar um acervo robusto de exercícios e códigos em Java.
+- Criar um acervo robusto de exercícios e códigos em Java.
