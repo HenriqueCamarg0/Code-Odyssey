@@ -1,0 +1,25 @@
+# Design Patterns
+
+Este repositório contém exemplos de implementação de três padrões de projeto: **Facade**, **Singleton** e **Strategy**. Abaixo está uma breve explicação de cada um deles.
+
+## Facade
+O padrão **Facade** fornece uma interface simplificada para um conjunto de interfaces em um subsistema. Ele ajuda a reduzir a complexidade e torna o subsistema mais fácil de usar.
+
+### Exemplo:
+- Uma classe `Facade` centraliza chamadas para várias classes internas, escondendo a complexidade do sistema.
+
+## Singleton
+O padrão **Singleton** garante que uma classe tenha apenas uma única instância e fornece um ponto global de acesso a ela.
+
+### Exemplo:
+- Uma classe `Singleton` controla sua própria instância e impede a criação de múltiplas instâncias, geralmente utilizando um método estático para acessá-la.
+
+## Strategy
+O padrão **Strategy** permite que você defina uma família de algoritmos, coloque-os em classes separadas e os torne intercambiáveis. Ele permite que o algoritmo varie independentemente dos clientes que o utilizam.
+
+### Exemplo:
+- Uma interface `Strategy` define um método comum, e diferentes implementações dessa interface fornecem comportamentos específicos que podem ser trocados dinamicamente.
+
+---
+
+Cada pasta no repositório contém o código-fonte e exemplos práticos para entender melhor cada padrão.
