@@ -9,10 +9,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/code-odyssey/main/assets/odyssey-logo.svg" width="400" alt="Code Odyssey Logo">
-</div>
-
 ## 🚀 A ODISSEIA COMEÇA AQUI
 
 Bem-vindo, explorador digital! O **Code Odyssey** não é apenas um repositório — é uma nave espacial navegando através da vasta galáxia do desenvolvimento. Em nossa jornada, coletamos conhecimento como estrelas, transformando desafios em constelações de soluções inovadoras.
